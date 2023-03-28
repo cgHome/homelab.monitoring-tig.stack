@@ -3,13 +3,13 @@
 ## Mapped Ports
 
 ```
-Host		Container		Service
+Host		Container   Service
 
-3000		3000			  grafana
-3003		3003			  grafana
-8086		8086		    influxdb
-8125		8125			  telegraf
-6514    6514        telegraf > syslog
+3000		3000        grafana
+3003		3003        grafana
+8086		8086        influxDB
+8125		8125        telegraf
+6514		6514        telegraf > syslog
 ```
 
 ## Usefull Links
